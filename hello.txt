@@ -6,3 +6,8 @@ git init 은 해당 폴더를  git이 관리하도록
 git commit -m "첫번째 커밋입니다"
 git config --global user.name "inhae"
 git config --global user.email "lsh266409@gmail.com"
+문제
+reame.md 라는 파일을 만들고
+해당 파일에 Hello GG< 3 이라고 쓰고
+그 파일을 add 후 commit 후 push 하여 올린 후에
+깃헙 주소 디스코드 채팅에 올리기
