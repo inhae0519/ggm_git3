@@ -5,4 +5,4 @@ ls는 폴더 안 명령어 보기
 git init 은 해당 폴더를  git이 관리하도록
 git commit -m "첫번째 커밋입니다"
 git config --global user.name "inhae"
-git config --global user.email "lsh292031@gmail.com"
+git config --global user.email "lsh266409@gmail.com"
